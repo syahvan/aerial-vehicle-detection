@@ -76,3 +76,8 @@ Here are some examples of what the model is capable of:
 ![Example 2](Examples/gifexample.gif)
 
 *Example with the use of FiftyOne*
+
+## Reference
+
+Rafael Makrigiorgis, Panayiotis Kolios, & Christos Kyrkou. (2022). Aerial Multi-Vehicle Detection Dataset (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7053442
+
