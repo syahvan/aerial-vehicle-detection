@@ -99,10 +99,7 @@ Here are some examples of what the model is capable of:
 </p>
 
 <p align="center">
-  <video controls width="85%">
-    <source src="https://github.com/syahvan/aerial-vehicle-detection/assets/98654277/6ea36ec5-95af-4b2e-ad1c-61b4861fe8db" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <video src="https://github.com/syahvan/aerial-vehicle-detection/assets/98654277/6ea36ec5-95af-4b2e-ad1c-61b4861fe8db" width="300"></video>
   <br>
   Video 2. With Modified YOLOv8
 </p>
