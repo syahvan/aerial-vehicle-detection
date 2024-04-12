@@ -1,0 +1,9 @@
+names:
+- car
+- bus
+- truck
+nc: 3
+path: /content/gdrive/MyDrive/Vehicle-Detection/data
+test: images/test/
+train: images/train/
+val: images/valid/
