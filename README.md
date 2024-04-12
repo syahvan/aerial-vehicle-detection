@@ -27,7 +27,7 @@ YOLOv8 is known for its speed and efficiency, while still achieving high detecti
 In this project, modifications were made to the backbone architecture of YOLOv8 by altering the YAML configuration files. These modifications aimed to improve detection accuracy or computational efficiency. Specifically, comparisons were made between the standard YOLOv8 backbone and the modified backbone to analyze their impact on detection performance and speed.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syahvan/aerial-vehicle-detection/main/img/Modified-Yolov8-Architecture.png" width="85%" height="85%">
+  <img src="https://raw.githubusercontent.com/syahvan/aerial-vehicle-detection/main/asset/Modified-Yolov8-Architecture.png" width="85%" height="85%">
   <br>
   Picture 2. Modified YOLOv8 Architecture
 </p>
