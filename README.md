@@ -98,9 +98,8 @@ Here are some examples of what the model is capable of:
   Video 1. With YOLOv8
 </p>
 
+<video src="https://github.com/syahvan/aerial-vehicle-detection/assets/98654277/6ea36ec5-95af-4b2e-ad1c-61b4861fe8db" width="300"></video>
 <p align="center">
-  <video src="https://github.com/syahvan/aerial-vehicle-detection/assets/98654277/6ea36ec5-95af-4b2e-ad1c-61b4861fe8db" width="300"></video>
-  <br>
   Video 2. With Modified YOLOv8
 </p>
 
