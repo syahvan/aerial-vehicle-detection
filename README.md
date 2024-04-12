@@ -89,7 +89,7 @@ It can be seen that the modified YOLOv8 model is faster than the standard YOLOv8
 
 Here are some examples of what the model is capable of:
 
-https://github.com/syahvan/aerial-vehicle-detection/result/yolov8l-vehicle/Aerial View - yolov8l.mp4
+https://github.com/syahvan/aerial-vehicle-detection/raw/main/result/yolov8l-vehicle/Aerial%20View%20-%20yolov8l.mp4
 <p align="center">
   Video 1. With YOLOv8
 </p>
