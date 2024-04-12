@@ -89,21 +89,13 @@ It can be seen that the modified YOLOv8 model is faster than the standard YOLOv8
 
 Here are some examples of what the model is capable of:
 
+[![With YOLOv8](https://img.youtube.com/vi/-GaxSPoVuqE/maxresdefault.jpg)](https://www.youtube.com/watch?v=-GaxSPoVuqE)
 <p align="center">
-  <video controls width="85%">
-    <source src="https://youtu.be/-GaxSPoVuqE?si=b-1sklTqhUx4WVfj" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <br>
   Video 1. With YOLOv8
 </p>
 
+[![With Modified YOLOv8](https://img.youtube.com/vi/eHzwjScBaUs/maxresdefault.jpg)](https://www.youtube.com/watch?v=eHzwjScBaUs)
 <p align="center">
-  <video controls width="85%">
-    <source src="https://youtu.be/eHzwjScBaUs?si=7WGDmXp0oHzvBghJ" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <br>
   Video 2. With Modified YOLOv8
 </p>
 
