@@ -91,7 +91,7 @@ Here are some examples of what the model is capable of:
 
 <p align="center">
   <video controls width="85%">
-    <source src="result/yolov8l-vehicle/Aerial View - yolov8l.mp4" type="video/mp4">
+    <source src="https://youtu.be/-GaxSPoVuqE?si=b-1sklTqhUx4WVfj" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <br>
@@ -101,7 +101,7 @@ Here are some examples of what the model is capable of:
 
 <p align="center">
   <video controls width="85%">
-    <source src="result/yolov8l-vehicle-small/Aerial View.mp4" type="video/mp4">
+    <source src="https://youtu.be/eHzwjScBaUs?si=7WGDmXp0oHzvBghJ" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <br>
