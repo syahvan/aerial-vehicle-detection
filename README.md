@@ -96,8 +96,8 @@ Here are some examples of what the model is capable of:
   Video 1. With YOLOv8
 </p>
 
-[![With Modified YOLOv8](https://img.youtube.com/vi/eHzwjScBaUs/maxresdefault.jpg)](https://www.youtube.com/watch?v=eHzwjScBaUs)
 <p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/eHzwjScBaUs?si=uc1ItPL4mdp9HvNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   Video 2. With Modified YOLOv8
 </p>
 
